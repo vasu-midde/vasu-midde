@@ -2,6 +2,8 @@
 
 **M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg** · Research Intern in Computer Vision · aspiring **AI / ML Engineer**
 
+🌐 **Portfolio:** https://vasu-midde.github.io/vasu-midde-portfolio-showcase/
+
 I build machine-learning systems end to end, from data and annotation through training to evaluation, and I care about measuring whether a model actually works. Right now I'm focused on object detection, LLMs and retrieval-augmented generation (RAG).
 
 - **Now:** Research Intern at BTU. I'm building a pipeline that detects, counts and classifies insects in high-resolution light-trap images (Faster R-CNN, up to 0.94 AP50 on held-out test frames).
@@ -39,4 +41,4 @@ I build machine-learning systems end to end, from data and annotation through tr
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/vasumidde/) · Cottbus, Germany · English (fluent) · German (A1)
+[Portfolio](https://vasu-midde.github.io/vasu-midde-portfolio-showcase/) · [LinkedIn](https://www.linkedin.com/in/vasumidde/) · Cottbus, Germany · English (fluent) · German (A1)
